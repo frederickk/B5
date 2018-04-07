@@ -1,0 +1,19 @@
+{
+  "name": "B5",
+  "version": "0.2.0",
+  "description": "Bayern 5 Aktuell von Chrome Apps aufrufen.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "NODE_ENV=production ./package.sh B5"
+  },
+  "keywords": [
+    "bayern5",
+    "B5",
+    "radio",
+    "rundfunk",
+    "deutsch"
+  ],
+  "author": "Ken Fredrick <ken.frederick@gmx.de>",
+  "license": "MIT"
+}

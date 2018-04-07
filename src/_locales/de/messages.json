@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "B5",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Bayern 5 Aktuell von Chrome Apps aufrufen.",
+    "description": "Extension description"
+  }
+}
